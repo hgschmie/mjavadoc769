@@ -1,4 +1,4 @@
-package mavenbugs.mjavadoc770;
+package mavenbugs.mjavadoc769;
 
 /*
  * Licensed under the Apache License, Version 2.0 (the "License");

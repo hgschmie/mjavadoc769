@@ -24,14 +24,14 @@
     </parent>
 
     <groupId>mavenbugs</groupId>
-    <artifactId>mjavadoc770</artifactId>
+    <artifactId>mjavadoc769</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <properties>
         <basepom.check.skip-all>true</basepom.check.skip-all>
         <basepom.javadoc.skip>false</basepom.javadoc.skip>
-        <moduleName>mavenbugs.mjavadoc770</moduleName>
+        <moduleName>mavenbugs.mjavadoc769</moduleName>
         <javadoc.version>8</javadoc.version>
     </properties>
 

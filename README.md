@@ -21,16 +21,16 @@ Now activate both:
 `mvn -Pauto-module-name -Djavadoc.version=11 -Pauto-module-name clean install`
 
 ```
-[ERROR] Failed to execute goal org.apache.maven.plugins:maven-javadoc-plugin:3.5.0:jar (basepom.default) on project mjavadoc770: MavenReportException: Error while generating Javadoc:
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-javadoc-plugin:3.5.0:jar (basepom.default) on project mjavadoc769: MavenReportException: Error while generating Javadoc:
 [ERROR] Exit code: 1
-[ERROR] /Users/henning/scratch/mjavadoc770/src/main/java/mavenbugs/mjavadoc770/InternalImportBindingBuilder.java:88: error: cannot access Provider
+[ERROR] /Users/henning/scratch/mjavadoc769/src/main/java/mavenbugs/mjavadoc769/InternalImportBindingBuilder.java:88: error: cannot access Provider
 [ERROR]     static final class InternalBindingProvider<T> implements Provider<T> {
 [ERROR]                  ^
 [ERROR]   class file for javax.inject.Provider not found
 [ERROR] 1 error
 [ERROR] Command line was: /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/javadoc -J-Xmx1024m @options @packages
 [ERROR]
-[ERROR] Refer to the generated Javadoc files in '/Users/henning/scratch/mjavadoc770/target/apidocs' dir.
+[ERROR] Refer to the generated Javadoc files in '/Users/henning/scratch/mjavadoc769/target/apidocs' dir.
 [ERROR]
 [ERROR] -> [Help 1]
 [ERROR]

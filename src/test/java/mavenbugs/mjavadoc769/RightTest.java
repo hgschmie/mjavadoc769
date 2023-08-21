@@ -1,4 +1,4 @@
-package mavenbugs.mjavadoc770;
+package mavenbugs.mjavadoc769;
 
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 

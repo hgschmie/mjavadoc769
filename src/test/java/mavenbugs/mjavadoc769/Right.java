@@ -11,7 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package mavenbugs.mjavadoc770;
+package mavenbugs.mjavadoc769;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.Target;
